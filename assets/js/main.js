@@ -23,7 +23,6 @@ ScrollReveal().reveal(".qualification__content", { delay: 300 });
 ScrollReveal().reveal(".services__content", { delay: 300 });
 ScrollReveal().reveal(".portfolio__container", { delay: 300 });
 ScrollReveal().reveal(".project__img", { delay: 300 });
-ScrollReveal().reveal(".testimonial__content", { delay: 300 });
 
 const navLink = document.querySelectorAll(".nav__link");
 
