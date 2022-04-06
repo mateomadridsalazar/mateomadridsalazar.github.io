@@ -19,7 +19,6 @@ ScrollReveal().reveal(".home__img", { delay: 500 });
 ScrollReveal().reveal(".home__scroll", { delay: 2000 });
 ScrollReveal().reveal(".about__img", { delay: 200 });
 ScrollReveal().reveal(".skills__content", { delay: 200 });
-ScrollReveal().reveal(".qualification__content", { delay: 300 });
 ScrollReveal().reveal(".services__content", { delay: 300 });
 ScrollReveal().reveal(".portfolio__container", { delay: 300 });
 ScrollReveal().reveal(".project__img", { delay: 300 });
